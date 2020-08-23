@@ -12,7 +12,7 @@ Consultare il punto 2 del [testo di progetto](https://github.com/lorenzofavaro/I
 ## Struttura del progetto
 - `parser` contiene le classi Java e i file di testo necessari a parsificare l'output restituito da `calendar.cl`.
   - `Slot.java` definisce un oggetto rappresentante il singolo slot di insegnamento.
-  - `Parser.java` prende in input `output.txt` e lo parsifica restituendo in output `parsed_output.txt`.
+  - `Parser.java` prende in input `raw_input.txt` e lo parsifica restituendo in output `parsed_output.txt`.
 - `calendar.cl` definisce e risolve il problema della generazione del calendario degli insegnamenti
 
 ## Generazione del calendario
