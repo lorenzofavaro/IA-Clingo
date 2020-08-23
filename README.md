@@ -23,6 +23,35 @@ Tutti i vincoli rigidi sono stati rispettati. Per quanto riguarda i vincoli ausp
 
 ## Risultati ottenuti
 
+#### Legenda
+- aEISG = Acquisizione ed elaborazione di immagini statiche - graﬁca
+- aES = Acquisizione ed elaborazione del suono
+- rDP = Risorse digitali per il progetto: collaborazione e documentazione 
+- pBD = Progettazione di basi di dati
+- g3D = Grafica 3D
+- eFD = Elementi di fotograﬁa digitale
+- pM = Project Management
+- lM = Linguaggi di markup
+- aUPM = Accessibilità e usabilità nella progettazione multimediale
+- tSSW = Tecnologie server-side per il web
+- fIPP = Fondamenti di ICT e Paradigmi di Programmazione
+- mD = Marketing digitale
+- gRU = La gestione delle risorse umane
+- vGPDM = I vincoli giuridici del progetto: diritto dei media
+- gQ = La gestione della qualità
+- sM = Semiologia e multimedialità
+- aESID = Acquisizione ed elaborazione di sequenze di immagini digitali
+- aSLCW = Ambienti di sviluppo e linguaggi client-side per il web 
+- cPCP = Comunicazione pubblicitaria e comunicazione pubblica
+- cASM = Crossmedia: articolazione delle scritture multimediali
+- tSMD = Tecniche e strumenti di Marketing digitale 
+- iSMM = Introduzione al social media management
+- sMISM = Strumenti e metodi di interazione nei Social media
+- pSAWDM1 = Progettazione e sviluppo di applicazioni web su dispositivi mobile I
+- pSAWDM2 = Progettazione e sviluppo di applicazioni web su dispositivi mobile II
+- pGDI = Progettazione graﬁca e design di interfacce
+
+
 <table><thead><tr><th colspan="3">Settimana 1</th></tr></thead><tbody><tr><td></td><td>Venerdì</td><td>Sabato</td></tr><tr><td>9 - 11</td><td>PRE</td><td>aES</td></tr><tr><td>11 - 13</td><td>aEISG</td><td>rDP</td></tr><tr><td>13 - 14</td><td></td><td rowspan="3"></td></tr><tr><td>14 - 16</td><td>aES</td></tr><tr><td>16 - 18</td><td>aEISG</td></tr></tbody></table>
 
 <table><thead><tr><th colspan="3">Settimana 2</th></tr></thead><tbody><tr><td></td><td>Venerdì</td><td>Sabato</td></tr><tr><td>9 - 11</td><td>rDP</td><td>aEISG</td></tr><tr><td>11 - 13</td><td>aEISG</td><td>pBD</td></tr><tr><td>13 - 14</td><td></td><td rowspan="3"></td></tr><tr><td>14 - 16</td><td>pBD</td></tr><tr><td>16 - 18</td><td>aEISG</td></tr></tbody></table>
