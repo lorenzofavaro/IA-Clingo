@@ -135,7 +135,7 @@ precede(Corso1, Corso2) :- ultimaLezione(Corso1, S, G, I1), primaLezione(Corso2,
 :- propedeutico(Corso1, Corso2), not precede(Corso1, Corso2).
 
 % 6) Le 4 ore di recupero devono essere suddivise in 2 blocchi da 2 ore, quindi una lezione di recupero non può essere di sabato dalle 13 alle 14
-:- slot(_,_,13,14,recupero,_).
+:- slot(_,sabato,13,14,recupero,_).
 
 % -------------------
 % VINCOLI AUSPICABILI
