@@ -23,3 +23,4 @@ Tutti i vincoli rigidi sono stati rispettati. Per quanto riguarda i vincoli ausp
 
 ## Risultati ottenuti
 
+<table> <thead> <tr> <th colspan=4>Settimana 1</th> </tr></thead> <tbody> <tr> <td></td><td>Venerdì</td><td>Sabato</td></tr><tr> <td>9 - 11</td><td>Presentazione</td><td>Acquisizione ed elaborazione del suono</td></tr><tr> <td>11 - 13</td><td>Acquisizione ed elaborazione del suono</td><td>Risorse digitali per il progetto: collaborazione e documentazione</td></tr><tr> <td>13 - 14</td><td></td></tr><tr> <td>14 - 16</td><td>Acquisizione ed elaborazione di immagini statiche - graﬁca</td></tr><tr> <td>16 - 18</td><td>Acquisizione ed elaborazione di immagini statiche - graﬁca</td></tr></tbody></table>
