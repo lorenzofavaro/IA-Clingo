@@ -7,13 +7,13 @@ Questo progetto è stato realizzato per l'esame di Intelligenza Artificiale e La
 - Clonare il progetto.
 
 ## Il problema
-Consultare il punto 2 del [testo di progetto](https://github.com/lorenzofavaro/IA-Clingo/blob/master/Testo%20Progetto.pdf)
+Consultare il punto 2 del [testo di progetto](https://github.com/lorenzofavaro/IA-Clingo/blob/master/Testo%20Progetto.pdf).
 
 ## Struttura del progetto
 - `parser` contiene le classi Java e i file di testo necessari a parsificare l'output restituito da `calendar.cl`.
   - `Slot.java` definisce un oggetto rappresentante il singolo slot di insegnamento.
   - `Parser.java` prende in input `raw_input.txt` e lo parsifica restituendo in output `parsed_output.txt`.
-- `calendar.cl` definisce e risolve il problema della generazione del calendario degli insegnamenti
+- `calendar.cl` definisce e risolve il problema della generazione del calendario degli insegnamenti.
 
 ## Generazione del calendario
 La Knowledge Base è stata popolata di tutti gli insegnamenti e da ulteriori fatti, necessari ad agevolare la definizione dei vari vincoli (rules) richiesti dal problema.
