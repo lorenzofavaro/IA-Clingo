@@ -135,14 +135,14 @@ precede(Corso1, Corso2) :- ultimaLezione(Corso1, S, G, I1), primaLezione(Corso2,
 :- propedeutico(Corso1, Corso2), not precede(Corso1, Corso2).
 
 % 6) Le 4 ore di recupero devono essere suddivise in 2 blocchi da 2 ore, quindi una lezione di recupero non può essere di sabato dalle 13 alle 14
-:- slot(_,sabato,13,14,recupero,docente).
+:- slot(_,_,13,14,recupero,_).
 
 % -------------------
 % VINCOLI AUSPICABILI
 % -------------------
 
 % 1) La distanza tra la prima e l'ultima lezione di ciascun insegnamento non deve superare le 6 settimane
-:- primaLezione(Corso, Settimana1, _, _), ultimaLezione(Corso, Settimana2, _, _), |Settimana1 - Settimana2| > 6.
+:- primaLezione(Corso, Settimana1, _, _), ultimaLezione(Corso, Settimana2, _, _), |Settimana1 - Settimana2| > 5.
 
 % 2) La prima lezione degli insegnamenti "cASM" e "iSMM" devono essere collocate nella seconda settimana full-time
 :- slot(Settimana, _, _, _, cASM, _), Settimana < 16.
