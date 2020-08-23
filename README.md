@@ -23,7 +23,7 @@ Tutti i vincoli rigidi sono stati rispettati. Per quanto riguarda i vincoli ausp
 
 ## Risultati ottenuti
 
-<table><thead> <tr> <th colspan="3">Settimana 1</th> </tr></thead><tbody> <tr> <td></td><td>Venerdì</td><td>Sabato</td></tr><tr> <td>9 - 11</td><td>Pre</td><td>aES</td></tr><tr> <td>11 - 13</td><td>aES</td><td>rDP</td></tr><tr> <td>13 - 14</td><td></td><td rowspan="3"></td></tr><tr> <td>14 - 16</td><td>aEISG</td></tr><tr> <td>16 - 18</td><td>aEISG</td></tr></tbody></table>
+<table><thead> <tr> <th colspan="3">Settimana 1</th> </tr></thead><tbody> <tr> <td></td><td>Venerdì</td><td>Sabato</td></tr><tr> <td>9 - 11</td><td>PRE</td><td>aES</td></tr><tr> <td>11 - 13</td><td>aES</td><td>rDP</td></tr><tr> <td>13 - 14</td><td></td><td rowspan="3"></td></tr><tr> <td>14 - 16</td><td>aEISG</td></tr><tr> <td>16 - 18</td><td>aEISG</td></tr></tbody></table>
 
 <table><thead><tr><th colspan="3">Settimana 2</th></tr></thead><tbody><tr><td></td><td>Venerdì</td><td>Sabato</td></tr><tr><td>9 - 11</td><td>rDP</td><td>aEISG</td></tr><tr><td>11 - 13</td><td>pBD</td><td>pBD</td></tr><tr><td>13 - 14</td><td></td><td rowspan="3"></td></tr><tr><td>14 - 16</td><td>aEISG</td></tr><tr><td>16 - 18</td><td>aEISG</td></tr></tbody></table>
 
