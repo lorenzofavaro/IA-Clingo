@@ -7,4 +7,7 @@ Questo progetto è stato realizzato per l'esame di Intelligenza Artificiale e La
 - Clonare il progetto.
 
 ## Il problema
-Consultare il punto 2 del [Testo di progetto](https://github.com/lorenzofavaro/IA-Clingo/blob/master/Testo%20Progetto.pdf)
+Consultare il punto 2 del [testo di progetto](https://github.com/lorenzofavaro/IA-Clingo/blob/master/Testo%20Progetto.pdf)
+
+## Struttura del progetto
+
